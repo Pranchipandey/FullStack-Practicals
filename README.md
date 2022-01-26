@@ -14,3 +14,4 @@ How to make cards ,navigation bars, footer, forms and a complete website using h
 
 here are some screeshots of these practicals for better understanding of this repository.
 Hope so you all like this basic repository to understand the basic concepts of HTML ,CSS and JavaScript.
+:gift_heart:
